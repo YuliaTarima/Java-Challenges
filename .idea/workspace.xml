@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="799944e1-c3e2-4c83-b2fb-32b96a7ec3e2" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XHCOMhSfwtO9z5Lj5w0y6dMFdx" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PASV/cra1" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\yulia\git\EpamJavaFundamentals\src\main\resources\utils" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="test.java.maintask" />
+      <recent name="utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\yulia\git\EpamJavaFundamentals\src\main\java\utils" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TaskTwoReverseString">
+    <configuration name="TaskFiveMatchMonthNumberToName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.java.maintask.TaskFiveMatchMonthNumberToName" />
+      <module name="EpamJavaFundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.maintask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskFourEnterNumbersCalculateSumMultiply" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.java.maintask.TaskFourEnterNumbersCalculateSumMultiply" />
+      <module name="EpamJavaFundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.maintask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskOneGreetUser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.java.maintask.TaskOneGreetUser" />
+      <module name="EpamJavaFundamentals" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskThreeGenerateRandomNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.java.maintask.TaskThreeGenerateRandomNumbers" />
+      <module name="EpamJavaFundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.maintask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskTwoReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.java.maintask.TaskTwoReverseString" />
+      <module name="EpamJavaFundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.maintask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TaskTwoReverseString" />
+        <item itemvalue="Application.TaskOneGreetUser" />
+        <item itemvalue="Application.TaskFiveMatchMonthNumberToName" />
+        <item itemvalue="Application.TaskFourEnterNumbersCalculateSumMultiply" />
+        <item itemvalue="Application.TaskThreeGenerateRandomNumbers" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="799944e1-c3e2-4c83-b2fb-32b96a7ec3e2" name="Default Changelist" comment="" />
+      <created>1580693599669</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580693599669</updated>
+    </task>
+    <servers />
+  </component>
+</project>
